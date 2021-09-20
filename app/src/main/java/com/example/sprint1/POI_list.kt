@@ -18,6 +18,7 @@ class POI_list : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityPoiListBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
         initRecycler()
         createPOI()
     }

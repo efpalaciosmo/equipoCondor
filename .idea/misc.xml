@@ -5,7 +5,8 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_poi_list.xml" value="0.296875" />
-        <entry key="app/src/main/res/layout/item_poi.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/gradient.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/item_poi.xml" value="0.33" />
       </map>
     </option>
   </component>
