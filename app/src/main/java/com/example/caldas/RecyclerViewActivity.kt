@@ -20,7 +20,7 @@ class RecyclerViewActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-       // recycler = findViewById(R.id.mContacts)
+       recycler = findViewById(R.id.contact_list)
         setupRecyclerView()
         generateContacts()
 //        mContacts = createMockContacts()
